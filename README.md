@@ -17,5 +17,5 @@
 ##  **💲 Donate**
 
 
-<a href="https://saweria.co/SanzXp" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="LilpanXD" height="30" width="106"></a>
+<a href="https://saweria.co/LilpanXD" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="LilpanXD" height="30" width="106"></a>
 
