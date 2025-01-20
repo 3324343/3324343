@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LilpanXD&label=Profile%20views&color=blueviolet&style=flat" alt="Profile View" />
 </p>
+<p align="center"><img src="https://count.getloli.com/get/@nazedev-github-readme?theme=rule34" /></p>
 
 ### Current activities 
 - 👨‍💻 I am Not a Programmer
