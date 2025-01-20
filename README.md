@@ -7,7 +7,7 @@
 
 ### Current activities 
 - 👨‍💻 I am Not a Programmer
-- 🌱 I am currently learning Lua
+- 🌱 I am currently learning Lua, Html, JavaScript, css
   
 [![Profile Stats](https://github-readme-stats.vercel.app/api?username=3324343&theme=blue-green)](#-statistics)
 
