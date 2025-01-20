@@ -8,7 +8,7 @@
 ### Current activities 
 - 👨‍💻 I am Not a Programmer
 - 🌱 I am currently learning Lua, Html, JavaScript, css
--   💰 Donate For Me [Saweria](https://saweria.co/LilpanXD) 
+- 💰 Donate For Me [Saweria](https://saweria.co/LilpanXD) 
 
 ### Github Stats 🚀
 [![Profile Stats](https://github-readme-stats.vercel.app/api?username=3324343&theme=blue-green)](#-statistics)
