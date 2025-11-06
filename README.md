@@ -14,5 +14,5 @@
 ##  **✨ Tech I Use**
 <p align="center">
   <a href="https://lilpanxd.vercel.app">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bash,lua,github&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bash,lua,github,linux,nano&perline=8" />
   </a>
