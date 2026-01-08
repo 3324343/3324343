@@ -18,5 +18,5 @@
   </a>
 
 ## Operating Systems
-| Arch | Parrot OS | Android |
+| Ubuntu | Debian | Arch | Kali NetHunter | Parrot OS | 
 |--------|--------|------|----------------|----------------|----------------|----------------|----------------|
