@@ -18,5 +18,5 @@
   </a>
 
 ## Operating Systems
-| Debian | Arch   | Parrot Os       | Android|
-|--------|--------|--------|--------|--------|
+| Debian | Arch | Parrot Os | Android|
+|--------|--------|--------|--------|
