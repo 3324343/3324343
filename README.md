@@ -18,5 +18,5 @@
   </a>
 
 ## Operating Systems
-| Ubuntu | Debian | Box64Droid (Ubuntu) | Arch | Fedora |
+| Debian | Arch   | Parrot Os       | Android|
 |--------|--------|--------|--------|--------|
