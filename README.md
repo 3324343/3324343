@@ -11,7 +11,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3324343&theme=blue-green)](#-statistics)
 
-##  **✨ Tech I Use**
+##  **💤 Tech I Use**
 <p align="center">
   <a href="https://lilpanxd.vercel.app">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bash,lua,github,linux,nano&perline=8" />
