@@ -18,5 +18,5 @@
   </a>
 
 ## Operating Systems
-| Alpine | Ubuntu | Debian | Arch | Kali NetHunter | Parrot OS | PostMarket | Void |
+| Arch | | Parrot OS | Android |
 |--------|--------|------|----------------|----------------|----------------|----------------|----------------|
