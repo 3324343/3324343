@@ -16,3 +16,6 @@
   <a href="https://lilpanxd.vercel.app">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bash,lua,github,linux,nano&perline=8" />
   </a>
+
+## Operating Systems
+![](images/android.png)
