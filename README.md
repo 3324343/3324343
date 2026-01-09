@@ -10,10 +10,10 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3324343&theme=blue-green)](#-statistics)
 
-##  **💤 Tech I Use**
+##  ** Tech I Use**
 
 
-## 🌐 Operating Systems
+## Operating Systems
 
 | Debian | Arch | Parrot Os | Android|
 |--------|--------|--------|--------|
