@@ -10,11 +10,14 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3324343&theme=blue-green)](#-statistics)
 
-##  ** Tech I Use **
 
+##  ** Tech I Use **
+<details>
 
 ## Operating Systems
 
 | Debian | Arch | Parrot Os | Android|
 |--------|--------|--------|--------|
 <a href="https://www.debian.org/"><img src="images/icons-os/Debian.png" alt="Debian Logo" width="50"></a> | <a href="https://archlinux.org/"><img src="images/icons-os/Arch-linux.png" alt="Arch logo" width="50"></a> | <a href="https://www.parrotsec.org/"><img src="images/icons-os/Parrot.png" alt="Parrot Logo" width="50"></a> | <a href="https://www.android.com/"><img src="images/icons-os/Android.png" alt="Android Logo" width="50"></a> |
+
+</details>
