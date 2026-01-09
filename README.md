@@ -21,4 +21,4 @@
 
 | Debian | Arch | Parrot Os | Android|
 |--------|--------|--------|--------|
-<a href="/Documentation/chroot/debian_chroot.md"><img src="images/icons-os/Debian.png" alt="Debian Logo" width="100"></a> | <a href="/Documentation/chroot/box64droid_chroot.md"><img src="images/icons-os/Arch-linux.png" alt="Arch logo" width="100"></a> | <a href="/Documentation/chroot/arch_chroot.md"><img src="images/icons-os/Parrot.png" alt="Parrot Logo" width="100"></a> | <a href="/Documentation/chroot/fedora_chroot.md"><img src="images/icons-os/Android.png" alt="Android Logo" width="100"></a> |
+<a href="https://www.debian.org/"><img src="images/icons-os/Debian.png" alt="Debian Logo" width="100"></a> | <a href="https://archlinux.org/"><img src="images/icons-os/Arch-linux.png" alt="Arch logo" width="100"></a> | <a href="https://www.parrotsec.org/"><img src="images/icons-os/Parrot.png" alt="Parrot Logo" width="100"></a> | <a href="https://www.android.com/"><img src="images/icons-os/Android.png" alt="Android Logo" width="100"></a> |
