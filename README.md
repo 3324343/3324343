@@ -12,7 +12,7 @@
 
 | JavaScript | Python | HTML | CSS  |
 |--------|--------|--------|--------|
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="images/icons/javascript.png" alt="JavaScript" width="50"></a> | <a href="https://www.python.org/"><img src="images/icons/python.png" alt="Python" width="50"></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="images/icons/html5.png" alt="HTML" width="50"></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="images/icons/CSS3.png" alt="CSS" width="50"></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="images/icons/javascript.png" alt="JavaScript" width="50"></a> | <a href="https://www.python.org/"><img src="images/icons/python.png" alt="Python" width="50"></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="images/icons/html5.png" alt="HTML" width="50"></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="images/icons/CSS3.png" alt="CSS" width="100"></a> 
 
 
 
