@@ -17,7 +17,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bash,lua,github,linux,nano&perline=8" />
   </a>
 
-## Operating Systems
+## 🌐 Operating Systems
+
 | Debian | Arch | Parrot Os | Android|
 |--------|--------|--------|--------|
 <a href="/Documentation/chroot/debian_chroot.md"><img src="images/icons-os/Debian.png" alt="Debian Logo" width="100"></a> | <a href="/Documentation/chroot/box64droid_chroot.md"><img src="images/icons-os/Arch-linux.png" alt="Arch logo" width="100"></a> | <a href="/Documentation/chroot/arch_chroot.md"><img src="images/icons-os/Parrot.png" alt="Parrot Logo" width="100"></a> | <a href="/Documentation/chroot/fedora_chroot.md"><img src="images/icons-os/Android.png" alt="Android Logo" width="100"></a> |
