@@ -5,12 +5,6 @@
 ### Current activities 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1385162987932880947?showDisplayName=true)](https://discord.com/users/1385162987932880947)
 
-### Github Stats 🚀
-[![Profile Stats](https://github-readme-stats.vercel.app/api?username=3324343&theme=blue-green)](#-statistics)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3324343&theme=blue-green)](#-statistics)
-
-
 ##  ** Tech I Use **
 <details>
 
