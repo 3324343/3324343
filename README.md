@@ -1,6 +1,6 @@
 ## **👋  |  Hey there, I'm 3324343!**
 
-<p align="center"><img src="https://count.getloli.com/get/@nazedev-github-readme?theme=rule34" /></p>
+<p align="center"><img src="images/LainBehindMove2.gif" /></p>
 
 ### Current activities 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1385162987932880947?showDisplayName=true)](https://discord.com/users/1385162987932880947)
