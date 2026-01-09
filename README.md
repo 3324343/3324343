@@ -12,8 +12,8 @@
 
 | JavaScript | Python | HTML | CSS  |
 |--------|--------|--------|--------|
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="images/icons/javascript.png" alt="JavaScript" width="50"></a> | <a href="https://www.python.org/"><img src="images/icons/python.png" alt="Python" width="50"></a> |
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="images/icons/html5.png" alt="Html" width="50"></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="images/icons/javascript.png" alt="JavaScript" width="50"></a> | <a href="https://www.python.org/"><img src="images/icons/python.png" alt="Python" width="50"></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="images/icons/html5.png" alt="Html" width="50"></a> 
+
 
 
 ## Operating Systems
