@@ -12,6 +12,8 @@
   - 🍂 I love watch anime.
   - 🦜 I'm learning English and Japanese
 
+---
+
 ### Current activities 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1385162987932880947?showDisplayName=true)](https://discord.com/users/1385162987932880947)
 
