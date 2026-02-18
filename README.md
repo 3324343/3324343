@@ -1,6 +1,7 @@
-<p align="center"><img src="assets/image.gif" /></p>
 
-## **<img src="assets/wave.gif" width="28">  |  Hey there, I'm 3324343!**
+## <img src="assets/wave.gif" width="28">  |  Hey there, I'm 3324343!
+
+<p align="center"><img src="assets/image.gif" /></p>
 
 
 ### Current activities 
