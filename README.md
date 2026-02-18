@@ -4,7 +4,7 @@
 ---
 
 <p align="center"><img src="assets/image.gif" /></p>
-             - Pronouns: any/all -
+             - Pronouns: he/him -
 
              
 - 🌱 I’m currently learning many things to figure out what I really want to do.
