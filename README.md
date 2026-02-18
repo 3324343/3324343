@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning many things to figure out what I really want to do.
 - ✨ I do things wholeheartedly.
 - 📫 Fun fact: 
-  - <img src="assets/Arch-linux.png" width="15"> I use Arch btw.
+  - <img src="assets/Arch-linux.png" width="15">  I use Arch btw.
   - 🍂 I love watch anime.
   - 🦜 I'm learning English and Japanese
 
