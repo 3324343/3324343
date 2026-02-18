@@ -5,8 +5,8 @@
 
 <p align="center"><img src="assets/image.gif" /></p>
 
-   <img src="assets/nametag.png" width="19"> Pronouns: he/him
-          
+ㅤㅤㅤㅤㅤㅤ<img src="assets/nametag.png" width="19"> Pronouns: he/him
+          ㅤㅤㅤ
    
 - 🌱 I’m currently learning many things to figure out what I really want to do.
 - ✨ I do things wholeheartedly.
