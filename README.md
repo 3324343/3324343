@@ -1,4 +1,4 @@
-## **👋  |  Hey there, I'm 3324343!**
+## **<img src="assets/wave.gif" width="28">  |  Hey there, I'm 3324343!**
 
 <p align="center"><img src="images/VisLain.gif" /></p>
 
