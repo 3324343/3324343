@@ -1,5 +1,5 @@
 
-## <img src="assets/wave.gif" width="28">  |  Hey there, I'm 3324343!
+## Hey there <img src="assets/wave.gif" width="28">, I'm 3324343!
 
 <p align="center"><img src="assets/image.gif" /></p>
 
