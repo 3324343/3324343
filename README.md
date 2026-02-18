@@ -12,7 +12,7 @@
 - ✨ I do things wholeheartedly.
 - 📫 Fun fact: 
   - <img src="assets/Arch-linux.png" width="15">  I use Arch btw.
-  - <img src="assets/ayaya-club-ayaya.gif" width="20">  I love watch anime.
+  - <img src="assets/ayaya-club-ayaya.gif" width="18">  I love watch anime.
   - 🦜 I'm learning English and Japanese
 
 ---
