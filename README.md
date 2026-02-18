@@ -1,9 +1,9 @@
 
 ## Hey there <img src="assets/wave.gif" width="28">, I'm 3324343!
 
-<p align="center"><img src="assets/image.gif" /></p>
-
 ---
+
+<p align="center"><img src="assets/image.gif" /></p>
 
 - 🌱 I’m currently learning many things to figure out what I really want to do.
 - ✨ I do things wholeheartedly.
