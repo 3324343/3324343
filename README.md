@@ -3,7 +3,9 @@
 
 ---
 
-<p align="center"><img src="assets/image.gif" /></p>ㅤㅤㅤㅤㅤㅤ<img src="assets/nametag.png" width="19"> Pronouns: he/him
+<p align="center"><img src="assets/image.gif" /></p>
+
+ㅤㅤㅤㅤㅤㅤㅤ<img src="assets/nametag.png" width="19"> Pronouns: he/him
           ㅤㅤㅤ
    
 - 🌱 I’m currently learning many things to figure out what I really want to do.
